@@ -24,6 +24,20 @@ graph LR;
 
 <div align=center>
 
+# Funsies
+
+</div>
+
+I started the 42 Common Core on the 2nd of October 2023.
+
+I am/was a member of the 42 Porto Student's Association.
+
+I use NVIM but firstly I used VSCode and Clion.
+
+---
+
+<div align=center>
+
 # Norminette
 
 </div>
@@ -134,7 +148,9 @@ These was the last project before my first exam, this index will not talk about 
 
 </div>
 
-Minitalk is a project that has as it's main challenge learning about UNIX signals
+Minitalk is a project that has as it's main challenge learning about UNIX signals. It has as an end goal to create a communication between two terminals, a server that receives and shows a message that was sent by the client that receives the server's PID and then a message and sends it to the server.
+
+This was the last project that i developed when 42 Porto was still on Critical Techworks office, and the project that i had to submit for evaluation 4 times because i just kept forgetting some minor stuff.
 
 <div align = center>
 
