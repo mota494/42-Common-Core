@@ -162,4 +162,38 @@ This was the last project that i developed when 42 Porto was still on Critical T
 
 </div>
 
+<div align = center>
+
+# [Push_Swap](https://github.com/mota494/42_push_swap)
+
+![Static Badge](https://img.shields.io/badge/IDE-green?style=for-the-badge&logo=Neovim&logoColor=%2357A143&labelColor=%23000000&color=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Score-%3F%2F100-green?style=for-the-badge&logo=42&labelColor=%23000000&color=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Language-green?style=for-the-badge&logo=C&logoColor=%230078d7&labelColor=%23000000&color=%23ffffff)
+
+</div>
+
+(IN PROGRESS)
+
+<div align = center>
+
+# [Philosophers](https://github.com/mota494/42_philosophers)
+
+![Static Badge](https://img.shields.io/badge/IDE-green?style=for-the-badge&logo=Neovim&logoColor=%2357A143&labelColor=%23000000&color=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Score-%3F%2F100-green?style=for-the-badge&logo=42&labelColor=%23000000&color=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Language-green?style=for-the-badge&logo=C&logoColor=%230078d7&labelColor=%23000000&color=%23ffffff)
+
+</div>
+
+(IN PROGRESS)
+
+<div align = center>
+
+# [Minishell](https://github.com/mota494/42_minishell)
+
+![Static Badge](https://img.shields.io/badge/IDE-green?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=%230078d7&labelColor=%23000000&color=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Score-%3F%2F100-green?style=for-the-badge&logo=42&labelColor=%23000000&color=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Language-green?style=for-the-badge&logo=C&logoColor=%230078d7&labelColor=%23000000&color=%23ffffff)
+
+</div>
+
 (IN PROGRESS)
