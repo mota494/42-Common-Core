@@ -4,7 +4,7 @@
 
 |Current Project|Current Rank|
 |--|--|
-|Fract-ol|Rank 02|
+|Minishell|Rank 03|
 
 # Progress Graph
 
@@ -16,8 +16,10 @@ graph LR;
     libft-->ft_printf;
     libft-->Born2BeRoot;
     Born2BeRoot-->Minitalk;
-    Born2BeRoot-->Fract-ol;
-    Fract-ol-->Push_Swap
+    Born2BeRoot-->Push_Swap;
+    Push_Swap-->Fract_ol;
+    Fract_ol-->Philosophers;
+    Philosophers-->Minishell
 ```
 
 ---
@@ -136,8 +138,6 @@ During the project i developed my own B2BR guide that helped some of my peers ge
 
 These was the last project before my first exam, this index will not talk about my exams.
 
----
-
 <div align = center>
 
 # [Minitalk](https://github.com/mota494/42_minitalk)
@@ -154,37 +154,53 @@ This was the last project that i developed when 42 Porto was still on Critical T
 
 <div align = center>
 
-# [Fract-ol](https://github.com/mota494/42_fractol)
-
-![Static Badge](https://img.shields.io/badge/IDE-green?style=for-the-badge&logo=Neovim&logoColor=%2357A143&labelColor=%23000000&color=%23ffffff)
-![Static Badge](https://img.shields.io/badge/Score-%3F%2F100-green?style=for-the-badge&logo=42&labelColor=%23000000&color=%23ffffff)
-![Static Badge](https://img.shields.io/badge/Language-green?style=for-the-badge&logo=C&logoColor=%230078d7&labelColor=%23000000&color=%23ffffff)
-
-</div>
-
-<div align = center>
-
 # [Push_Swap](https://github.com/mota494/42_push_swap)
 
 ![Static Badge](https://img.shields.io/badge/IDE-green?style=for-the-badge&logo=Neovim&logoColor=%2357A143&labelColor=%23000000&color=%23ffffff)
-![Static Badge](https://img.shields.io/badge/Score-%3F%2F100-green?style=for-the-badge&logo=42&labelColor=%23000000&color=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Score-100/100-green?style=for-the-badge&logo=42&labelColor=%23000000&color=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Language-green?style=for-the-badge&logo=C&logoColor=%230078d7&labelColor=%23000000&color=%23ffffff)
 
 </div>
 
-(IN PROGRESS)
+I HATED THIS PROJECT but after finishing it I actually learned to love it and find it way more interesting and fun to do.
+
+This project teaches the student about sorting algorithms, efficent programming and stacks (fun).
+
+There's a bunch of sorting algorithms that the student can choose to adapt or even create his own (don't), my pipeline was starting with something that I developed wich was god awful, after that I messed with the Radix a sorting algorithm that divides the number by their individual digits and it actually worked pretty good but with my solution I wouldn't have the 100 out of 100 grade so I discarded that and ended doing the Turk Algorithm which... I actually hate because it's boring but a man gotta do what he's gotta do   
+
+<div align = center>
+
+# [Fract-ol](https://github.com/mota494/42_fractol)
+
+![Static Badge](https://img.shields.io/badge/IDE-green?style=for-the-badge&logo=Neovim&logoColor=%2357A143&labelColor=%23000000&color=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Score-115/100-green?style=for-the-badge&logo=42&labelColor=%23000000&color=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Language-green?style=for-the-badge&logo=C&logoColor=%230078d7&labelColor=%23000000&color=%23ffffff)
+
+</div>
+
+The choice between so_long, FDF and Fract_Ol was always clear as day for me and since I started the cursus I was looking forward to it!
+
+Unfortunately I started fractl_ol at a time that I was struggling to find motivitation to start the project and even after starting it I wasn't really feeling good myself and ended up pushing Fract_ol aside to complete another project that I pushed to the side.
+
+After months struggling with motivation, one day I randomly decided to pick it up again and finished it way faster than I thought I would.
+
+As the name implies, this project is about fractals, it's the first project that uses the infamous _MiniLBX_ a simple C graphics library developed for 42 students.
+
+After finishing this project my "season 1" of 42 came to an end and I took a 2 month break from the cursus.
 
 <div align = center>
 
 # [Philosophers](https://github.com/mota494/42_philosophers)
 
 ![Static Badge](https://img.shields.io/badge/IDE-green?style=for-the-badge&logo=Neovim&logoColor=%2357A143&labelColor=%23000000&color=%23ffffff)
-![Static Badge](https://img.shields.io/badge/Score-%3F%2F100-green?style=for-the-badge&logo=42&labelColor=%23000000&color=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Score-100/100-green?style=for-the-badge&logo=42&labelColor=%23000000&color=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Language-green?style=for-the-badge&logo=C&logoColor=%230078d7&labelColor=%23000000&color=%23ffffff)
 
 </div>
 
-(IN PROGRESS)
+2024 was a garbage year, since the beggining of my cursus, 2/09/2023 untill the closure of the first 42 Porto campus on the 9/02/2024 I managed to hand 5 projects and 1 exam but after that it was a massive downhill for me. I managed to take 10 months to hand fract-ol and push_swap which was way more time than I should've taken, but there's no need to beat around a dead bush now.
+
+Philosophers was fun, a bit frustrating to lead with data races and learning about threads but I had fun and it was a really good project to pick up the pace again after my slump
 
 <div align = center>
 
