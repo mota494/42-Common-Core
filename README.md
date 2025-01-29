@@ -4,7 +4,7 @@
 
 |Current Project|Current Rank|
 |--|--|
-|Minishell|Rank 03|
+|CPP Modules|Rank 04|
 
 # Progress Graph
 
@@ -19,7 +19,9 @@ graph LR;
     Born2BeRoot-->Push_Swap;
     Push_Swap-->Fract_ol;
     Fract_ol-->Philosophers;
-    Philosophers-->Minishell
+    Philosophers-->Minishell;
+    Minishell-->CPP_Modules
+    Minishell-->Net_Practice
 ```
 
 ---
@@ -206,10 +208,16 @@ Philosophers was fun, a bit frustrating havind to deal with data races and learn
 
 # [Minishell](https://github.com/mota494/42_minishell)
 
-![Static Badge](https://img.shields.io/badge/IDE-green?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=%230078d7&labelColor=%23000000&color=%23ffffff)
-![Static Badge](https://img.shields.io/badge/Score-%3F%2F100-green?style=for-the-badge&logo=42&labelColor=%23000000&color=%23ffffff)
+![Static Badge](https://img.shields.io/badge/IDE-green?style=for-the-badge&logo=Neovim&logoColor=%2357A143&labelColor=%23000000&color=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Score-101%2F100-green?style=for-the-badge&logo=42&labelColor=%23000000&color=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Language-green?style=for-the-badge&logo=C&logoColor=%230078d7&labelColor=%23000000&color=%23ffffff)
 
 </div>
 
-(IN PROGRESS)
+4 MONTHS, FOUR GRUELING AND PAINFUL MONTHS ON THIS PROJECT. First of all I want to thank my partner for this project, Sofia Bueno, for the ammount of patiente that she had to have to endure my way doing stuff, to the god awfull commit messages to the thousand line commit that I would push to main with no explanation in sight.
+
+If I had played my cards right I'd have way more time to do this project and the experience wouldn't be so stressful thanks to the time constraints but overall this was a fun project and an amazing challenge. It took a long time to hand in because we kept fixig minor stuff that ended up not even being tested.
+
+People need to learn that the name of the project is MINIshell so not everything has to be exactly like bash, there are some tests that people have all the right to not care or deal like "<< $USER" having to EOF with "$USER" and not the var value for example
+
+This is an amazing project and one that I will likely come back to but some people on campus make the evaluation process a complete nightmare.
