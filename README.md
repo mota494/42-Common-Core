@@ -134,11 +134,11 @@ These project makes the student learn at least a little about file descriptors a
 
 Born2BeRoot is a very infamous project in 42, some call it their first "nightmare", it's a challenging project that introduces the student to the world of virtualization. It challenges the student by giving a few features that his virtual machine should have and to make that happen the student has to dive down in old forums, documentation pages and discover some neat functionality of the UNIX system. 
 
-The project allows the student to build his virtual machine in Debian or Rocky (RIP centOS), i choose Debian thanks to the more user friendly experience and the great ammount of documentation that already exists since the OS is so loved by a large community
+The project allows the student to build his virtual machine in Debian or Rocky (RIP centOS), I choose Debian thanks to the more user friendly experience and the great ammount of documentation that already exists since the OS is so loved by a large community
 
 During the project i developed my own B2BR guide that helped some of my peers get through the project.
 
-These was the last project before my first exam, this index will not talk about my exams.
+This was the last project before my first exam, this index will not talk about any exams.
 
 <div align = center>
 
