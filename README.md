@@ -214,10 +214,10 @@ Philosophers was fun, a bit frustrating havind to deal with data races and learn
 
 </div>
 
-4 MONTHS, FOUR GRUELING AND PAINFUL MONTHS ON THIS PROJECT. First of all I want to thank my partner for this project, Sofia Bueno, for the ammount of patiente that she had to have to endure my way doing stuff, to the god awfull commit messages to the thousand line commit that I would push to main with no explanation in sight.
+4 MONTHS, FOUR GRUELING AND PAINFUL MONTHS ON THIS PROJECT. First of all, I want to thank my partner for this project, Sofia Bueno, for the amount of patience that she had to have to endure my way doing stuff, to the god awfull commit messages to the thousand line commit that I would push to main with no explanation in sight.
 
-If I had played my cards right I'd have way more time to do this project and the experience wouldn't be so stressful thanks to the time constraints but overall this was a fun project and an amazing challenge. It took a long time to hand in because we kept fixig minor stuff that ended up not even being tested.
+If I had played my cards right, I'd have way more time to do this project and the experience wouldn't be so stressful thanks to the time constraints, but overall, this was a fun project and an amazing challenge. It took a long time to hand in because we kept fixing minor stuff that ended up not even being tested.
 
-People need to learn that the name of the project is MINIshell so not everything has to be exactly like bash, there are some tests that people have all the right to not care or deal like "<< $USER" having to EOF with "$USER" and not the var value for example
+People need to learn that the name of the project is MINIshell, so not everything has to be exactly like bash. There are some tests where people have the right to not care or deal like "<< $USER" having to EOF with "$USER" and not the var value, for example.
 
-This is an amazing project and one that I will likely come back to but some people on campus make the evaluation process a complete nightmare.
+This is an amazing project and one that I will likely come back to, but some people on campus make the evaluation process a complete nightmare.
