@@ -36,8 +36,6 @@ I started the 42 Common Core on the 2nd of October 2023.
 
 I am/was a member of the 42 Porto Student's Association.
 
-I use NVIM but firstly I used VSCode and Clion.
-
 ---
 
 <div align=center>
@@ -200,9 +198,9 @@ After finishing this project my "season 1" of 42 came to an end and I took a 2 m
 
 </div>
 
-2024 was a garbage year, since the beggining of my cursus, 2/09/2023 untill the closure of the first 42 Porto campus on the 9/02/2024 I managed to hand 5 projects and 1 exam but after that it was a massive downhill for me. I managed to take 10 months to hand fract-ol and push_swap which was way more time than I should've taken, but there's no need to beat around a dead bush now.
+2024 was a garbage year, from the beginning of my cursus, 2/09/2023 until the closure of the first 42 Porto campus on the 9/02/2024 I managed to hand 5 projects and 1 exam but after that it was a massive downhill for me. I managed to take 10 months to hand fract-ol and push_swap which was way more time than I should've taken, but there's no need to beat around a dead bush now.
 
-Philosophers was fun, a bit frustrating havind to deal with data races and learning about threads but I had fun and it was a really good project to pick up the pace again after my slump
+Philosophers was fun, a bit frustrating having to deal with data races and learning about threads but I had fun and it was a perfect project to pick up the pace again after my slump
 
 <div align = center>
 
