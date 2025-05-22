@@ -220,6 +220,8 @@ People need to learn that the name of the project is MINIshell, so not everythin
 
 This is an amazing project and one that I will likely come back to, but some people on campus make the evaluation process a complete nightmare.
 
+<div align = center>
+
 # Net Practice
 
 ![Static Badge](https://img.shields.io/badge/Score-100%2F100-green?style=for-the-badge&logo=42&labelColor=%23000000&color=%23ffffff)
@@ -232,7 +234,7 @@ On the old _blackhole_ system this project gave 0 compensation days which can ex
 
 <div align = center>
 
-# [CPP Moduloes](https://github.com/mota494/CPP_Modules)
+# [CPP Modules](https://github.com/mota494/CPP_Modules)
 
 ![Static Badge](https://img.shields.io/badge/IDE-green?style=for-the-badge&logo=Neovim&logoColor=%2357A143&labelColor=%23000000&color=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Score-100%2F100-green?style=for-the-badge&logo=42&labelColor=%23000000&color=%23ffffff)
@@ -240,10 +242,16 @@ On the old _blackhole_ system this project gave 0 compensation days which can ex
 
 </div>
 
-4 MONTHS, FOUR GRUELING AND PAINFUL MONTHS ON THIS PROJECT. First of all, I want to thank my partner for this project, Sofia Bueno, for the amount of patience that she had to have to endure my way doing stuff, to the god awfull commit messages to the thousand line commit that I would push to main with no explanation in sight.
+[WIP]
 
-If I had played my cards right, I'd have way more time to do this project and the experience wouldn't be so stressful thanks to the time constraints, but overall, this was a fun project and an amazing challenge. It took a long time to hand in because we kept fixing minor stuff that ended up not even being tested.
+<div align = center>
 
-People need to learn that the name of the project is MINIshell, so not everything has to be exactly like bash. There are some tests where people have the right to not care or deal like "<< $USER" having to EOF with "$USER" and not the var value, for example.
+# [Cub3d](https://github.com/mota494/42_cub3d)
 
-This is an amazing project and one that I will likely come back to, but some people on campus make the evaluation process a complete nightmare.
+![Static Badge](https://img.shields.io/badge/IDE-green?style=for-the-badge&logo=Neovim&logoColor=%2357A143&labelColor=%23000000&color=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Score-100%2F100-green?style=for-the-badge&logo=42&labelColor=%23000000&color=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Language%20-%20green?style=for-the-badge&logo=C%2B%2B&logoColor=F7ECE1&labelColor=242038&color=F7ECE1)
+
+</div>
+
+[WIP]
