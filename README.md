@@ -219,3 +219,31 @@ If I had played my cards right, I'd have way more time to do this project and th
 People need to learn that the name of the project is MINIshell, so not everything has to be exactly like bash. There are some tests where people have the right to not care or deal like "<< $USER" having to EOF with "$USER" and not the var value, for example.
 
 This is an amazing project and one that I will likely come back to, but some people on campus make the evaluation process a complete nightmare.
+
+# Net Practice
+
+![Static Badge](https://img.shields.io/badge/Score-100%2F100-green?style=for-the-badge&logo=42&labelColor=%23000000&color=%23ffffff)
+
+</div>
+
+Net Practice is a simple and very straightforward networking project. The day that I decided to pick it up was the same day that I handed it in.
+
+On the old _blackhole_ system this project gave 0 compensation days which can excuse his simplicity but, in my opinion, with the paced system this project could be reworked to be something more complex and challenging.
+
+<div align = center>
+
+# [CPP Moduloes](https://github.com/mota494/CPP_Modules)
+
+![Static Badge](https://img.shields.io/badge/IDE-green?style=for-the-badge&logo=Neovim&logoColor=%2357A143&labelColor=%23000000&color=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Score-100%2F100-green?style=for-the-badge&logo=42&labelColor=%23000000&color=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Language%20-%20green?style=for-the-badge&logo=C%2B%2B&logoColor=F7ECE1&labelColor=242038&color=F7ECE1)
+
+</div>
+
+4 MONTHS, FOUR GRUELING AND PAINFUL MONTHS ON THIS PROJECT. First of all, I want to thank my partner for this project, Sofia Bueno, for the amount of patience that she had to have to endure my way doing stuff, to the god awfull commit messages to the thousand line commit that I would push to main with no explanation in sight.
+
+If I had played my cards right, I'd have way more time to do this project and the experience wouldn't be so stressful thanks to the time constraints, but overall, this was a fun project and an amazing challenge. It took a long time to hand in because we kept fixing minor stuff that ended up not even being tested.
+
+People need to learn that the name of the project is MINIshell, so not everything has to be exactly like bash. There are some tests where people have the right to not care or deal like "<< $USER" having to EOF with "$USER" and not the var value, for example.
+
+This is an amazing project and one that I will likely come back to, but some people on campus make the evaluation process a complete nightmare.
